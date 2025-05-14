@@ -42,7 +42,7 @@ A sophisticated multi-agent system for analyzing federal solicitations and gener
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/federal-proposal-agent.git
+   git clone https://github.com/HAQ-NAWAZ-MALIK/federal-proposal-agent.git
    cd federal-proposal-agent
    ```
 
